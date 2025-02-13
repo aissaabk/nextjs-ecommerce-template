@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <!-- Background Circle -->
+  <circle cx="100" cy="100" r="95" fill="#FF6F61" stroke="#FFFFFF" stroke-width="5" />
+
+  <!-- Shopping Cart Icon -->
+  <path d="M70 130c-5.523 0-10 4.477-10 10s4.477 10 10 10 10-4.477 10-10-4.477-10-10-10zm60 0c-5.523 0-10 4.477-10 10s4.477 10 10 10 10-4.477 10-10-4.477-10-10-10zM25 40l15 60h90l15-60H25z" fill="#FFFFFF" />
+  <path d="M70 130c-5.523 0-10 4.477-10 10s4.477 10 10 10 10-4.477 10-10-4.477-10-10-10zm60 0c-5.523 0-10 4.477-10 10s4.477 10 10 10 10-4.477 10-10-4.477-10-10-10zM25 40l15 60h90l15-60H25z" fill="none" stroke="#FFFFFF" stroke-width="5" />
+
+  <!-- Globe Icon (Representing Global Shopping) -->
+  <circle cx="100" cy="100" r="40" fill="none" stroke="#FFFFFF" stroke-width="5" />
+  <path d="M100 60c22.091 0 40 17.909 40 40s-17.909 40-40 40-40-17.909-40-40 17.909-40 40-40zm0 10v60m-30-30h60" fill="none" stroke="#FFFFFF" stroke-width="5" />
+
+  <!-- Text: Your Brand Name -->
+  <text x="50%" y="180" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="#FFFFFF">ShopExpress</text>
+</svg>

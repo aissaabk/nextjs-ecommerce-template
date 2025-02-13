@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 100" width="400" height="100">
+  <style>
+    .background {
+      fill: #ffffff; /* Background color */
+    }
+    .text {
+      font-family: Arial, sans-serif;
+      font-weight: bold;
+      font-size: 48px;
+      fill: #007BFF; /* Primary color */
+    }
+    .highlight {
+      fill: #FFC107; /* Highlight color */
+    }
+  </style>
+  <rect class="background" width="400" height="100" rx="10" />
+  <g>
+    <!-- Text "AliShipping" -->
+    <text x="50" y="65" class="text">
+      Ali<span class="highlight">Shipping</span>
+    </text>
+    <!-- Icon (Optional - Simple Truck Symbol) -->
+    <polygon points="300,50 320,30 340,50 340,80 320,80" fill="#007BFF" />
+    <line x1="320" y1="60" x2="320" y2="80" stroke="#007BFF" stroke-width="4" />
+    <line x1="320" y1="60" x2="330" y2="50" stroke="#007BFF" stroke-width="4" />
+  </g>
+</svg>
